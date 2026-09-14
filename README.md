@@ -87,4 +87,3 @@ git push -u origin main
 ```
 
 > Não altere datas de arquivos ou histórico para simular entrega anterior. Envie o projeto com o histórico real do seu trabalho.
-git init
